@@ -64,12 +64,8 @@ const docusaurusConfigNavbars = {
       position: 'right',
       items: [
         {
-          label: '网站导航',
-          href: 'https://nav.fridaycoder.com'
-        },
-        {
-          label: '常用工具',
-          href: 'https://tool.fridaycoder.com'
+          label: '开发者工具集',
+          href: 'https://www.fridaycoder.com'
         }
       ]
     }
