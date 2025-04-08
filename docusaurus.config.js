@@ -95,11 +95,6 @@ const config = {
   headTags: [
     {
       tagName: 'script',
-      innerHTML: `window.CACHE_NAME = 'SW_${new Date().getTime()}'`,
-      attributes: {}
-    },
-    {
-      tagName: 'script',
       innerHTML: `
 if ('serviceWorker' in navigator && 'caches' in window) {
   // 只在生产环境中注册 Service Worker
@@ -107,6 +102,12 @@ if ('serviceWorker' in navigator && 'caches' in window) {
     console.log('[Service Worker] 注册启动')
     navigator.serviceWorker.register('/sw.js').then(function (registration) {
       console.log('[Service Worker] 注册成功:', registration.scope)
+      if (registration.active) {
+        registration.active.postMessage({
+          type: 'SW_NAME',
+          payload: 'SW_${new Date().getTime()}'
+        })
+      }
     }).catch(function (err) {
       console.log('[Service Worker] 注册失败:', err)
     })
