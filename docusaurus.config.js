@@ -91,7 +91,14 @@ const config = {
   },
   themes: [
     '@docusaurus/theme-mermaid'
-  ]
+  ],
+  scripts: [
+    {
+      src: '/register-sw.js',
+      async: true,
+      defer: true,
+    }
+  ],
 }
 
 module.exports = config
