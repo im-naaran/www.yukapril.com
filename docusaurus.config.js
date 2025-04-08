@@ -1,4 +1,4 @@
-const {themes} = require('prism-react-renderer')
+const { themes } = require('prism-react-renderer')
 const lightTheme = themes.github
 const darkTheme = themes.dracula
 const math = require('remark-math')
@@ -92,12 +92,33 @@ const config = {
   themes: [
     '@docusaurus/theme-mermaid'
   ],
-  scripts: [
+  headTags: [
     {
-      src: '/register-sw.js',
-      async: true,
-      defer: true,
-    }
+      tagName: 'script',
+      innerHTML: `window.CACHE_NAME = 'SW_${new Date().getTime()}'`,
+      attributes: {}
+    },
+    {
+      tagName: 'script',
+      innerHTML: `
+if ('serviceWorker' in navigator && 'caches' in window) {
+  // 只在生产环境中注册 Service Worker
+  if (window.location.hostname !== 'localhost') {
+    console.log('[Service Worker] 注册启动')
+    navigator.serviceWorker.register('/sw.js').then(function (registration) {
+      console.log('[Service Worker] 注册成功:', registration.scope)
+    }).catch(function (err) {
+      console.log('[Service Worker] 注册失败:', err)
+    })
+  } else {
+    console.log('[Service Worker] 本地开发环境，跳过注册')
+  }
+}
+      `,
+      attributes: {
+        defer: 'true',
+      },
+    },
   ],
 }
 

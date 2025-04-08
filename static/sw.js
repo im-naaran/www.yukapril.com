@@ -1,8 +1,10 @@
-const CACHE_NAME = '__SW_NAME__'
+const CACHE_NAME = window.CACHE_NAME
 // 使用正则表达式数组匹配需要缓存的资源路径
 const CACHE_PATTERNS = [
   /www.yukapril.com\/assets\/.+/,
-  /cdn1.yukapril.com\/.+/
+  /www.yukapril.com\/img\/.+/,
+  /cdn1.yukapril.com\/.+/,
+  /cdn.jsdelivr.net\/npm\/.+/
 ]
 
 // 允许缓存的文件扩展名
