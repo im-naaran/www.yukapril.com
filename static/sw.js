@@ -67,6 +67,8 @@ self.addEventListener('fetch', event => {
             console.log('[Service Worker] 缓存新资源:', href)
             cache.put(event.request, responseToCache)
           })
+        } else {
+          console.log('[Service Worker] 不缓存资源:', href, response)
         }
         return response
       })
