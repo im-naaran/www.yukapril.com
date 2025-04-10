@@ -60,14 +60,21 @@ self.addEventListener('fetch', event => {
 
       // 如果没有缓存，发起网络请求并缓存
       return fetch(event.request).then(response => {
-        if (response && response.ok) {
-          // 克隆响应，因为响应流只能被读取一次
-          const responseToCache = response.clone()
+        // 克隆响应，因为响应流只能被读取一次
+        const responseToCache = response.clone()
+
+        if (response && response.status === 200) {
           caches.open(CACHE_NAME).then(cache => {
             console.log('[Service Worker] 缓存新资源:', href)
             cache.put(event.request, responseToCache)
           })
-        } else {
+        } else if (response && response.type === 'opaque') {
+          caches.open(CACHE_NAME).then(cache => {
+            console.log('[Service Worker] 缓存跨域新资源:', href)
+            cache.put(event.request, responseToCache)
+          })
+        }
+        else {
           console.log('[Service Worker] 不缓存资源:', href, response)
         }
         return response
