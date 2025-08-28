@@ -6,6 +6,12 @@ const docusaurusConfigNavbars = {
   },
   items: [
     {
+      type: 'docSidebar',
+      label: 'AI工具',
+      sidebarId: 'aiTools',
+      position: 'left'
+    },
+    {
       type: 'dropdown',
       label: '前端基础',
       position: 'left',

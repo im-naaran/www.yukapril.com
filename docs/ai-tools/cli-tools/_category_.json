@@ -1,0 +1,8 @@
+{
+  "label": "CLI工具",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "命令行界面的AI工具集合"
+  }
+}
