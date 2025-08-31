@@ -6,7 +6,7 @@ sidebar_position: 1
 
 曾经的业界标杆，功能全面、综合体验好的全能型选手。经典代码补全神器，快准但对项目全局理解有限<sup>[[1]](#参考)</sup>。
 
-同时支持 VS Code 以及 InteliJ 旗下的编辑器。
+同时支持 VS Code 以及 JetBrains 旗下的编辑器。
 
 ## 价格
 

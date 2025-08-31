@@ -6,7 +6,7 @@ sidebar_position: 3
 
 推出了很久的插件，用户多，很有名。可以算得上是全能型 AI 编程助手<sup>[[1]](#参考)</sup>。
 
-要注意的是，Cline 仅有 VS Code 版本（无 InteliJ 旗下的编辑器版本）。
+要注意的是，Cline 仅有 VS Code 版本（无 JetBrains 旗下的编辑器版本）。
 
 自定义模型支持费非常广，如：OpenRouter、OpenAI、Google Gemini、Anthropic、Deepseek、Moonshot 等。以及 openAI 兼容模式，这样几乎所有的常见模型都可以接入。
 

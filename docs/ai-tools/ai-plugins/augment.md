@@ -6,7 +6,7 @@ sidebar_position: 2
 
 全局代码理解专家，能深入理解整个项目的架构和逻辑，处理复杂问题。价格昂贵，对大型项目比较有优势<sup>[[1]](#参考)</sup>。
 
-同时支持 VS Code 以及 InteliJ 旗下的编辑器。
+同时支持 VS Code 以及 JetBrains 旗下的编辑器。
 
 ## 价格
 

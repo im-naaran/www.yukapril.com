@@ -8,7 +8,7 @@ Roo Code 适合在整个项目周期中使用，能通过项目级索引理解�
 
 整体体验和 Cline 差不太多。
 
-要注意的是，Roo Code 仅有 VS Code 版本（无 InteliJ 旗下的编辑器版本）。
+要注意的是，Roo Code 仅有 VS Code 版本（无 JetBrains 旗下的编辑器版本）。
 
 自定义模型支持费非常广，如：OpenRouter、OpenAI、Google Gemini、Anthropic、Deepseek、Doubao、Moonshot 等。以及 openAI 兼容模式，这样几乎所有的常见模型都可以接入。
 
