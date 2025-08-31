@@ -6,13 +6,16 @@ sidebar_position: 2
 
 Codeium 出品的 AI-IDE 编辑器，Cascade 功能强大，专为大型项目设计<sup>[[1]](#参考)</sup>。
 
+Windsurf 有 IDE，也有支持 VS Code、JetBrains 旗下的编辑器的插件。但是插件好像 Cascade 不如 IDE 版本好。
+
 ## 特色和要求
 
 不详
 
 ## 价格
+
 1. 免费版，每月 25 次请求
-2. 19美元版，每月 500 次请求
+2. 15 美元版，每月 500 次请求
 
 ## 配置与使用
 

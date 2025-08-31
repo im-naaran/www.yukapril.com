@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Qoder
 
-阿里 Qwen 刚刚推出的 AI-IDE 编辑器计<sup>[[1]](#参考)</sup>。
+阿里 Qwen 刚刚推出的 AI-IDE 编辑器<sup>[[1]](#参考)</sup>。
 
 ## 特色和要求
 
