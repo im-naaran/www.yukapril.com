@@ -12,7 +12,7 @@ sidebar_position: 3
 
 薄膜键盘比较常见，就是最常规的一种键盘，如果你拆开过它，可以看到里面有导电橡胶，下面有薄膜。
 
-![薄膜键盘](https://cdn1.yukapril.com/knowledge/classification-1.png)
+![薄膜键盘](./assets/classification-1.png)
 
 图源：https://zhuanlan.zhihu.com/p/19953400
 
@@ -28,7 +28,7 @@ sidebar_position: 3
 
 比较主流的高端键盘。程序员届几乎人手一把。本系列文章后续也都集中在机械键盘方向上。
 
-![机械键盘](https://cdn1.yukapril.com/knowledge/classification-2.png)
+![机械键盘](./assets/classification-2.png)
 
 图源：[Keychron Q5 官网](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard)
 
@@ -58,7 +58,7 @@ sidebar_position: 3
 
 这个类别的键盘比较小众，我只见过有人用 HHKB。曾经听说过 PLUM（普拉姆），好像还有一个 realforce。
 
-![静电容键盘](https://cdn1.yukapril.com/knowledge/classification-3.png)
+![静电容键盘](./assets/classification-3.png)
 
 图源：[Happy Hacking Keyboard 官网](https://happyhackingkb.com/)
 
@@ -88,7 +88,7 @@ A 厂商 96% 键盘和 B 厂商 96% 键盘外壳、保护罩不一定能通用�
 
 按键最多的，也是最方便的。就是尺寸最大，不方便携带。
 
-![100% 系列](https://cdn1.yukapril.com/knowledge/classification-4.png)
+![100% 系列](./assets/classification-4.png)
 
 图源：[Keychron Q6 官网](https://www.keychron.com/products/keychron-q6-qmk-custom-mechanical-keyboard)，108配列。
 
@@ -105,15 +105,15 @@ A 厂商 96% 键盘和 B 厂商 96% 键盘外壳、保护罩不一定能通用�
 再次提醒下，这个配列不要数按键个数，因为大概率不是 96/98 个。
 ```
 
-![98 键盘](https://cdn1.yukapril.com/knowledge/classification-2.png)
+![98 键盘](./assets/classification-2.png)
 
 图源：[Keychron Q5 官网](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard)，98配列。
 
-![98 键盘](https://cdn1.yukapril.com/knowledge/classification-5.png)
+![98 键盘](./assets/classification-5.png)
 
 图源：[腹灵 FL980 官网](http://flesports.com/product/keyboard/view-2939.html)，98 配列。
 
-![96 键盘](https://cdn1.yukapril.com/knowledge/classification-6.png)
+![96 键盘](./assets/classification-6.png)
 
 图源：[IQUNIX F97 官网](https://iqunix.store/collections/hitchhiker-series/products/f97-hitchhiker)，96 配列。
 
@@ -122,7 +122,7 @@ A 厂商 96% 键盘和 B 厂商 96% 键盘外壳、保护罩不一定能通用�
 最常见的就是 87 配列。一般也叫做 TKL（Tenkey less）。和全键盘相比，主要就是精简掉小键盘区域了。如果你不需要小键盘输入数字，那么
 87 配列非常合适。
 
-![87 键盘](https://cdn1.yukapril.com/knowledge/classification-7.png)
+![87 键盘](./assets/classification-7.png)
 
 图源：[Keychron Q3 官网](https://www.keychron.com/products/keychron-q3-qmk-custom-mechanical-keyboard)
 
@@ -138,12 +138,12 @@ A 厂商 96% 键盘和 B 厂商 96% 键盘外壳、保护罩不一定能通用�
 要注意的是，虽然按键很多时候都超过 80 个，但是它不算 80% 系列。
 ```
 
-![75% 系列](https://cdn1.yukapril.com/knowledge/classification-8.png)
+![75% 系列](./assets/classification-8.png)
 
 图源：[Keychron Q1 官网](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard)，82 键。77 键外加 5
 个控制键。
 
-![75% 系列](https://cdn1.yukapril.com/knowledge/classification-9.png)
+![75% 系列](./assets/classification-9.png)
 
 图源：[MelGeek MOJO 84 官网](https://www.melgeek.com/products/melgeek-mojo84-plastic-original-see-through-custom-programmable-mechanical-keyboard)
 ，84 键。77 键外加 7 个控制键。
@@ -155,11 +155,11 @@ A 厂商 96% 键盘和 B 厂商 96% 键盘外壳、保护罩不一定能通用�
 
 这也是算是一般正常能用的最小键盘了。很多品牌都有不少经典款式。
 
-![60% 系列](https://cdn1.yukapril.com/knowledge/classification-10.png)
+![60% 系列](./assets/classification-10.png)
 
 图源：[Keychron Q4 官网](https://www.keychron.com/products/keychron-q4-qmk-via-custom-mechanical-keyboard)，61 键。
 
-![60% 系列](https://cdn1.yukapril.com/knowledge/classification-11.png)
+![60% 系列](./assets/classification-11.png)
 
 图源：[MegGeek MOJO68 官网](https://www.melgeek.com/products/melgeek-mojo68-plastic-see-through-custom-programmable-mechanical-keyboard)
 ，68 键。
@@ -168,7 +168,7 @@ A 厂商 96% 键盘和 B 厂商 96% 键盘外壳、保护罩不一定能通用�
 
 这个系列并不多见，主要就是在 60% 系列上，把数字那一行再去掉。我觉得没办法安心使用。
 
-![40% 系列](https://cdn1.yukapril.com/knowledge/classification-12.png)
+![40% 系列](./assets/classification-12.png)
 
 图源：[Keychron Q9 官网](https://www.keychron.com/products/keychron-q9-qmk-custom-mechanical-keyboard)，52键（含旋钮）。
 
@@ -202,7 +202,7 @@ A 厂商 96% 键盘和 B 厂商 96% 键盘外壳、保护罩不一定能通用�
 
 有的是一块键盘分两边，也有干脆就是两块键盘（中间可能用线连接，也可能是蓝牙连接）。
 
-![Alice 键盘](https://cdn1.yukapril.com/knowledge/classification-13.png)
+![Alice 键盘](./assets/classification-13.png)
 
 图源：[Keychron Q8 Alice 官网](https://www.keychron.com/products/keychron-q8-alice-layout-qmk-custom-mechanical-keyboard)
 ，60% 系列。
@@ -211,11 +211,11 @@ A 厂商 96% 键盘和 B 厂商 96% 键盘外壳、保护罩不一定能通用�
 
 独立小键盘一般常见于辅助 87% 75% 60% 键盘。
 
-![独立小键盘](https://cdn1.yukapril.com/knowledge/classification-14.png)
+![独立小键盘](./assets/classification-14.png)
 
 图源：[MelGeek MOJO Pad 官网](https://www.melgeek.com/products/melgeek-mojopad-plastic-numpad-mechanical-keyboard-melgeek-com)
 
-![独立小键盘](https://cdn1.yukapril.com/knowledge/classification-15.png)
+![独立小键盘](./assets/classification-15.png)
 
 图源：[Keychron Q0 PLUS 官网](https://www.keychron.com/products/keychron-q0-plus-qmk-custom-number-pad)
 

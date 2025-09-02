@@ -69,15 +69,15 @@ High Sierra 系统大概是 5.23G。
 
 1. 插好 U 盘
 2. 重启 Mac 电脑，重启时候按住 `option` 键，直到看到硬盘选择的界面，选择 `Install MacOS` 这个，需要点击下方的箭头：
-   ![img](https://cdn1.yukapril.com/2018-06-20-install-macos-1.jpg)
+   ![img](./assets2018/2018-06-20-install-macos-1.jpg)
 3. 之后会询问安装到哪里，因为只有一块硬盘（第二个是插入的 U 盘），所以默认选择第一个就行，点击 `安装`
-   ![img](https://cdn1.yukapril.com/2018-06-20-install-macos-2.jpg)
+   ![img](./assets2018/2018-06-20-install-macos-2.jpg)
 4. 进入实用工具界面，由于我是打算清空硬盘所有内容，再安装。所以先进入 `磁盘工具`，格式化整块硬盘：
-   ![img](https://cdn1.yukapril.com/2018-06-20-install-macos-3.jpg)
+   ![img](./assets2018/2018-06-20-install-macos-3.jpg)
 5. 选择硬盘后，点击 `抹掉`，可以选择格式。建议选择区分大小写，这样和 linux 是一致的。至于加密与否，我觉得无所谓吧。默认是 `加密（不区分大小写）`：
-   ![img](https://cdn1.yukapril.com/2018-06-20-install-macos-4.jpg)
+   ![img](./assets2018/2018-06-20-install-macos-4.jpg)
 6. 最后返回到第四步的实用工具页，选择 `安装 macOS` 就好了。剩下的就没什么可说的了：
-   ![img](https://cdn1.yukapril.com/2018-06-20-install-macos-5.jpg)
+   ![img](./assets2018/2018-06-20-install-macos-5.jpg)
 
 ## 小结
 

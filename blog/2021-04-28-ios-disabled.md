@@ -58,10 +58,10 @@ tags: [ iOS, disabled ]
 
 实际安卓手机效果图：
 
-![安卓效果](https://cdn1.yukapril.com/2021-04-28-disabled-1.png)
+![安卓效果](./assets2021/2021-04-28-disabled-1.png)
 
 实际 iPhone 效果图：
 
 > 直接修改 `disabled` 颜色，会导致文字特别浅，配合灰色背景很可能看不到。
 
-![iPhone 效果](https://cdn1.yukapril.com/2021-04-28-disabled-2.png)
+![iPhone 效果](./assets2021/2021-04-28-disabled-2.png)

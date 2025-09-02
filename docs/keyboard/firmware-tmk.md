@@ -18,7 +18,7 @@ TMK 是比较早的一种固件方案，现在直接用 TMK 方案的不太多�
 打开 [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/) 网站（简称 KLE）。由于 TMK
 固件支持的键盘不多，大概率都是现有的老键盘（新键盘不会使用 TMK 方案），所以你的键盘应该存在默认配置。
 
-![TLE](https://cdn1.yukapril.com/knowledge/tmk-1.png)
+![TLE](./assets/tmk-1.png)
 
 从顶部的 `Preset` 中，选择接近你键盘的布局，我这里选择了 `Default 60%`。尽量选择接近的布局方案，这样后续修改工作量会比较少，也不太容易出错。
 
@@ -55,7 +55,7 @@ Front Legend:侧面展示（侧刻）
 
 最后，我把左上角按键改了下，还有移除了右下角修饰键，改成了方向键。最终效果如下：
 
-![我的布局效果](https://cdn1.yukapril.com/knowledge/tmk-2.png)
+![我的布局效果](./assets/tmk-2.png)
 
 这样，我们就完成了第一层的布局。切换到 Raw data 选项卡，可以复制出来当前布局文件，注意保存好，后续要用到。以后也可以直接把之前的
 Raw data 复制进去，相当于读档。
@@ -94,7 +94,7 @@ Raw data 复制进去，相当于读档。
   ，剩下的 Fn，可以自定义。比如我把三个用作灯光控制了（后两个暂时还没用到）。
 - **LED**，这个保持默认就好，我没有修改过。
 
-![TKG](https://cdn1.yukapril.com/knowledge/tmk-3.png)
+![TKG](./assets/tmk-3.png)
 
 配置完成后，点击页面最下面的 `下载 .eep 文件` 即可获得固件。
 
@@ -115,14 +115,14 @@ https://github.com/kairyu/tkg-toolkit/archive/refs/heads/master.zip
 
 打开下载工具的 `Windows` 目录。运行 `tool/zadig_2.2.exe`。
 
-![zadig](https://cdn1.yukapril.com/knowledge/tmk-4.png)
+![zadig](./assets/tmk-4.png)
 
 点击 `Options` - `List All Device`后，或许可以看到你的键盘。如果看不到，可以点击 `Install WCID Driver` 进行安装。
 
 如果出现什么意外，一般是驱动安装错误了。可以尝试替换驱动，分别选择 `libusb-win32 (v1.2.6.0)` `WinUSB (v6.1.7600.16385)`
 之类进行尝试。
 
-![TKG](https://cdn1.yukapril.com/knowledge/tmk-5.png)
+![TKG](./assets/tmk-5.png)
 
 ### Windows 下进行工具配置
 

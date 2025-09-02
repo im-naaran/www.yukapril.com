@@ -16,7 +16,7 @@ sidebar_position: 1
 
 一把机械键盘从下至上，主要由：外壳、底棉、PCB 主板、静音棉（轴下垫、夹心棉）、定位板、轴体、键帽组成。
 
-![键盘结构](https://cdn1.yukapril.com/knowledge/keyboard-customization-1.png)
+![键盘结构](../assets/keyboard-customization-1.png)
 
 图源：https://www.zhihu.com/question/490989249/answer/2785785371
 

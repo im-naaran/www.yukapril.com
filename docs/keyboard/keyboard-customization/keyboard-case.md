@@ -14,7 +14,7 @@ sidebar_position: 2
 
 具体可以参考这张翻译后的经典图，很多键盘党地方都可以查阅到：
 
-![外壳种类](https://cdn1.yukapril.com/knowledge/keyboard-customization-2.png)
+![外壳种类](../assets/keyboard-customization-2.png)
 
 图源：https://www.zfrontier.com/app/flow/2O75my0arORo
 

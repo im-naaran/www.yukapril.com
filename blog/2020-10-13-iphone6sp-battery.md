@@ -46,7 +46,7 @@ tags: [ iPhone 6s Plus, 电池 ]
 
 ## 操作步骤
 
-![工具包、电池包、手机](https://cdn1.yukapril.com/2020-10-13-iphone6sp-battery-1.jpg)
+![工具包、电池包、手机](./assets2020/2020-10-13-iphone6sp-battery-1.jpg)
 
 购买到的工具包、电池包。其中电池包只有电池以及一些说明卡片，工具都要在工具包中找到。
 
@@ -58,7 +58,7 @@ tags: [ iPhone 6s Plus, 电池 ]
 
 ### 打开屏幕上盖
 
-![拆卸屏幕](https://cdn1.yukapril.com/2020-10-13-iphone6sp-battery-2.jpg)
+![拆卸屏幕](./assets2020/2020-10-13-iphone6sp-battery-2.jpg)
 
 用吸盘在 Home 键左中右分别吸住，然后慢慢用例拔起。需要反复在 Home 键附近尝试，因为是首次拆开，内部四周有防水胶！
 
@@ -70,7 +70,7 @@ tags: [ iPhone 6s Plus, 电池 ]
 
 打开后的全景：
 
-![屏幕上盖打开](https://cdn1.yukapril.com/2020-10-13-iphone6sp-battery-3.jpg)
+![屏幕上盖打开](./assets2020/2020-10-13-iphone6sp-battery-3.jpg)
 
 ### 拆卸电池排线
 
@@ -84,7 +84,7 @@ tags: [ iPhone 6s Plus, 电池 ]
 
 这步我认为最难。
 
-![电池背胶封口处](https://cdn1.yukapril.com/2020-10-13-iphone6sp-battery-4.jpg)
+![电池背胶封口处](./assets2020/2020-10-13-iphone6sp-battery-4.jpg)
 
 三个黑色贴纸以及白色胶：黑色贴纸的目的就是让白色胶不粘到其他零件，而且不太长，大概不到一公分而已。实际我们要拽下来白色的胶。
 
@@ -96,7 +96,7 @@ tags: [ iPhone 6s Plus, 电池 ]
 
 三个胶都弄完了，电池直接脱落，背部非常干净。
 
-![取下电池后的效果](https://cdn1.yukapril.com/2020-10-13-iphone6sp-battery-5.jpg)
+![取下电池后的效果](./assets2020/2020-10-13-iphone6sp-battery-5.jpg)
 
 那么如果白色胶中途断了怎么办？非常麻烦！
 
@@ -160,7 +160,7 @@ tags: [ iPhone 6s Plus, 电池 ]
 
 之后就是电池排线上面的盖子和螺丝，安装上就好。
 
-![内部电池更换后完成图](https://cdn1.yukapril.com/2020-10-13-iphone6sp-battery-6.jpg)
+![内部电池更换后完成图](./assets2020/2020-10-13-iphone6sp-battery-6.jpg)
 
 ### 先不安装外壳螺丝，开机测试
 
@@ -196,6 +196,6 @@ tags: [ iPhone 6s Plus, 电池 ]
 
 最后，晒下被自己搞变形的原装电池。
 
-![原装电池正面](https://cdn1.yukapril.com/2020-10-13-iphone6sp-battery-8.jpg)
+![原装电池正面](./assets2020/2020-10-13-iphone6sp-battery-8.jpg)
 
-![原装电池背面](https://cdn1.yukapril.com/2020-10-13-iphone6sp-battery-7.jpg)
+![原装电池背面](./assets2020/2020-10-13-iphone6sp-battery-7.jpg)

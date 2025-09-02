@@ -28,7 +28,7 @@ sidebar_position: 4
 
 一般来讲键盘都是正交矩阵布线，简单来说就是水平、垂直按照行列布线。但是也有一些特殊。如果是自己定制主板，建议选择引脚多的主控，这样可以尽可能使用标准布线。如果引脚实在不够，也可以多行、多列用一个引脚。
 
-![GH60 Satan 的布线](https://cdn1.yukapril.com/knowledge/keyboard-customization-3.png)
+![GH60 Satan 的布线](../assets/keyboard-customization-3.png)
 
 GH60 Satan 的布线（图片由 [Keyboard Firmware Builder](https://kbfirmware.com) 生成）。
 
@@ -38,7 +38,7 @@ GH60 Satan 的布线（图片由 [Keyboard Firmware Builder](https://kbfirmware.
 
 比如要做一个 GH60 标准配列下图键盘（列方向按颜色区分），14 列、5 行。也是 19个引脚。
 
-![GH60 我设计的布线](https://cdn1.yukapril.com/knowledge/keyboard-customization-4.png)
+![GH60 我设计的布线](../assets/keyboard-customization-4.png)
 
 GH60
 我设计的布线。图片由 [KLE](http://www.keyboard-layout-editor.com/##@@_c=%23ff9191&t=%23000%3B&=~`&_c=%23c8a1ff&t=%23000000%3B&=!1&_c=%2391e9ff%3B&=%2F@2&_c=%23a3ffc3%3B&=%233&_c=%23deff87%3B&=$4&_c=%23ffcf5c%3B&=%255&_c=%23ffa85e%3B&=^6&_c=%23ff9191%3B&=%2F&7&_c=%23c8a1ff%3B&=*8&_c=%2391e9ff%3B&=(9&_c=%23a3ffc3%3B&=)0&_c=%23deff87%3B&=%2F_-&_c=%23ffcf5c%3B&=+%2F=&_c=%23ffa85e&w:2%3B&=Backspace%3B&@_c=%23ff9191&w:1.5%3B&=Tab&_c=%23c8a1ff%3B&=Q&_c=%2391e9ff%3B&=W&_c=%23a3ffc3%3B&=E&_c=%23deff87%3B&=R&_c=%23ffcf5c%3B&=T&_c=%23ffa85e%3B&=Y&_c=%23ff9191%3B&=U&_c=%23c8a1ff%3B&=I&_c=%2391e9ff%3B&=O&_c=%23a3ffc3%3B&=P&_c=%23deff87%3B&={[&_c=%23ffcf5c%3B&=}]&_c=%23ffa85e&w:1.5%3B&=|\%3B&@_c=%23ff9191&w:1.75%3B&=Caps)

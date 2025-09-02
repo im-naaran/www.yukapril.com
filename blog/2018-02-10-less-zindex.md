@@ -36,7 +36,7 @@ new OptimizeCssAssetsPlugin({
 
 查阅 [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) 简陋的文档：
 
-![image](https://cdn1.yukapril.com/2018-02-10-webpack-less.png)
+![image](./assets2018/2018-02-10-webpack-less.png)
 
 意思是说，啥都没做，只是把 `cssProcessorOptions` 的配置传给处理器 `cssProcessor` 而已。
 

@@ -38,7 +38,7 @@ tags: [ beyond compare,bc ]
 
 这样发现**奇迹**了，原本30美金的bc，直接变成了24美金！欣喜若狂！！激动的查看支付方式，果真，只能信用卡/PayPal。
 
-![image](https://cdn1.yukapril.com/2016-10-23-buy-bc.png)
+![image](./assets2016/2016-10-23-buy-bc.png)
 
 还好自己有PayPal。
 
@@ -96,5 +96,5 @@ tags: [ beyond compare,bc ]
 
 最后，注册成功！
 
-![image](https://cdn1.yukapril.com/2016-10-23-bc-register.png)
+![image](./assets2016/2016-10-23-bc-register.png)
 

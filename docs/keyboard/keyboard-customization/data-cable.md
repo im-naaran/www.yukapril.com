@@ -24,7 +24,7 @@ sidebar_position: 8
 由于这是两段线，那么可定制化的范围就太多了，比如各种颜色彩色版本、航插头的各种颜色效果，还有键盘口数据线亮灯、或者一段线亮等。价格上，便宜的不到 50 元也有，贵的 100 ～
 200 多很常见。不过贵的航插线确实很好看。
 
-![航插线](https://cdn1.yukapril.com/knowledge/keyboard-customization-5.png)
+![航插线](../assets/keyboard-customization-5.png)
 
 后置航插线。图源：https://www.zhihu.com/question/412146195/answer/2553007090
 

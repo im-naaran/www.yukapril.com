@@ -59,6 +59,6 @@ pointer-events: none;
 
 效果如下：
 
-![水印效果](https://cdn1.yukapril.com/2021-04-26-watermark.png)
+![水印效果](./assets2021/2021-04-26-watermark.png)
 
 这个功能还挺实用的。在多个业务之间互相跳转，或者后退，还有可能白屏的时候，加上水印，没有水印就不是自己的项目，可以防止项目间扯皮。

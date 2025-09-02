@@ -26,7 +26,7 @@ sidebar_position: 1
 <div><input type="text"/></div>
 ```
 
-![写法1: 非表单中的 input](https://cdn1.yukapril.com/knowledge/input-1-1.png)
+![写法1: 非表单中的 input](./assets/input-1-1.png)
 
 此时是默认全键盘。在没有表单元素包裹下，右下角提交按钮表现为 `换行`，点击按钮没有任何反应。因为缺少表单的定义。
 
@@ -46,7 +46,7 @@ sidebar_position: 1
 <form action="#"><input type="text"/></form>
 ```
 
-![写法3: input type="text"](https://cdn1.yukapril.com/knowledge/input-1-3.png)
+![写法3: input type="text"](./assets/input-1-3.png)
 
 此时是默认全键盘。右下角提交按钮表现为蓝色的 `前往`，点击按钮键盘没有任何反应。因为表单没有定义提交等处理方法。下文亦如此。
 
@@ -56,7 +56,7 @@ sidebar_position: 1
 <form action="#"><input type="search"/></form>
 ```
 
-![写法4: input type="search"](https://cdn1.yukapril.com/knowledge/input-1-4.png)
+![写法4: input type="search"](./assets/input-1-4.png)
 
 此时是默认全键盘。右下角提交按钮表现为蓝色的 `搜索`。注意，必须嵌套在表单元素中，否则看不到 `搜索` 按钮。下文亦如此。
 
@@ -66,7 +66,7 @@ sidebar_position: 1
 <form action="#"><input type="number"/></form>
 ```
 
-![写法5: input type="number"](https://cdn1.yukapril.com/knowledge/input-1-5.png)
+![写法5: input type="number"](./assets/input-1-5.png)
 
 此时是默认全键盘，但是默认激活数字输入层。右下角提交按钮表现为蓝色的 `前往`。
 用户可以键盘切换为字母等并进行输入，但点击 `前往` 按钮后，会有提示。
@@ -85,7 +85,7 @@ sidebar_position: 1
 <form action="#"><input type="tel"/></form>
 ```
 
-![写法6: input type="tel"](https://cdn1.yukapril.com/knowledge/input-1-6.png)
+![写法6: input type="tel"](./assets/input-1-6.png)
 
 此时只能是系统默认的电话号码键盘，可以输入数字及 `+*#,;` 字符。没有提交按钮。 安装第三方输入法无效，不能被激活。
 
@@ -95,7 +95,7 @@ sidebar_position: 1
 <form action="#"><input type="url"/></form>
 ```
 
-![写法7: input type="url"](https://cdn1.yukapril.com/knowledge/input-1-7.png)
+![写法7: input type="url"](./assets/input-1-7.png)
 
 此时是默认全键盘，但是空格键消失，取代为链接快捷输入。右下角提交按钮表现为蓝色的 `前往`。
 
@@ -105,7 +105,7 @@ sidebar_position: 1
 <form action="#"><input type="email"/></form>
 ```
 
-![写法8: input type="email"](https://cdn1.yukapril.com/knowledge/input-1-8.png)
+![写法8: input type="email"](./assets/input-1-8.png)
 
 此时是默认全键盘，但是空格键变小，取代为邮箱快捷输入。右下角提交按钮表现为蓝色的 `前往`。
 
@@ -145,7 +145,7 @@ sidebar_position: 1
 <form action="#"><input type="text" inputmode="decimal"/></form>
 ```
 
-![写法3: input inputmode="decimal"](https://cdn1.yukapril.com/knowledge/input-2-3.png)
+![写法3: input inputmode="decimal"](./assets/input-2-3.png)
 
 此时为数字键盘，可以输入小数点。
 
@@ -155,7 +155,7 @@ sidebar_position: 1
 <form action="#"><input type="text" inputmode="numeric"/></form>
 ```
 
-![写法4: input inputmode="numeric"](https://cdn1.yukapril.com/knowledge/input-2-4.png)
+![写法4: input inputmode="numeric"](./assets/input-2-4.png)
 
 此时为数字键盘，不可以输入小数点。
 
@@ -173,7 +173,7 @@ sidebar_position: 1
 <form action="#"><input type="text" inputmode="search"/></form>
 ```
 
-![写法6: input inputmode="search"](https://cdn1.yukapril.com/knowledge/input-2-6.png)
+![写法6: input inputmode="search"](./assets/input-2-6.png)
 
 此时是默认全键盘。但右下角提交按钮**并不是**蓝色的 `搜索`。
 

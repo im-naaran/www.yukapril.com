@@ -2,7 +2,7 @@
 title: MacOS 通知栏的好帮手 日历 系统信息 多种花样
 date: 2020-03-18 22:34:00 GMT+0800
 tags: [ iStat Menus, Itsycal,BitBar ]
-photos: [ https://cdn1.yukapril.com/2020-03-18-notification-bar-1.png ]
+photos: [ ./assets2020/2020-03-18-notification-bar-1.png ]
 ---
 
 一直在关注通知栏的号软件，突然用上了 BitBar，觉得不错，就把在用的软件汇总介绍下。
@@ -15,7 +15,7 @@ photos: [ https://cdn1.yukapril.com/2020-03-18-notification-bar-1.png ]
 
 通过 Itsycal，我们可以模拟出一个日期。点击后展示出日历。
 
-![Itsycal 效果](https://cdn1.yukapril.com/2020-03-18-notification-bar-1.png)
+![Itsycal 效果](./assets2020/2020-03-18-notification-bar-1.png)
 
 Itsycal 效果比较清爽简约，此外还支持暗色模式。授权后，可以显示一周内的日历行为。
 
@@ -34,17 +34,17 @@ Itsycal 效果比较清爽简约，此外还支持暗色模式。授权后，可
 >
 > 不过 iStat Menus 启动比较慢，不确定启动慢是否会影响在通知栏的位置。反正我不推荐用它。
 >
-> ![iStat Menus 效果](https://cdn1.yukapril.com/2020-03-18-notification-bar-2.png)
+> ![iStat Menus 效果](./assets2020/2020-03-18-notification-bar-2.png)
 
 ## 系统设备信息 iStat Menus
 
 用笔记本时候，有时会觉得 CPU 不够用，总喜欢开着 “活动监视器” 查看那个程序占着 CPU。其实 Windows 下我也一直开着 “资源管理器” 😂。
 
-![iStat Menus 系统监控](https://cdn1.yukapril.com/2020-03-18-notification-bar-3.png)
+![iStat Menus 系统监控](./assets2020/2020-03-18-notification-bar-3.png)
 
 找了半天，也就是 iStat Menus 最好用了。监控 CPU、内存、硬盘、网速等不在话下。什么软件占用的多、持续图表信息，很全面。配置好后相当满意。而且用起来，基本上好几个月都不会遇到崩溃，非常稳定。
 
-![iStat Menus 复杂的配置](https://cdn1.yukapril.com/2020-03-18-notification-bar-4.png)
+![iStat Menus 复杂的配置](./assets2020/2020-03-18-notification-bar-4.png)
 
 缺点就是初步上手配置比较复杂，每个栏目都要自己拖拽等配置，还要理解啥是“合并”。而且首次配置很容易卡死。
 
@@ -74,7 +74,7 @@ Itsycal 效果比较清爽简约，此外还支持暗色模式。授权后，可
 
 社区还算丰富，官网也提供了不少现成的脚本，不过绝大部分感觉都不适合我。
 
-![BitBar 做的读取 Feedly 未读条数](https://cdn1.yukapril.com/2020-03-18-notification-bar-5.png)
+![BitBar 做的读取 Feedly 未读条数](./assets2020/2020-03-18-notification-bar-5.png)
 
 这两天，我做过跑马灯（没啥用，就是练习试试）、未读消息数（非常爱用），还有一个小红心提示（没卵用，就是好看）。
 

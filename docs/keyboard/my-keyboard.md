@@ -10,7 +10,7 @@ sidebar_position: 2
 块，不过那时候假货横行，我的好像还是假的。即便如此，它的手感远好于其他同期键盘了。以至于后来我也一直推荐 SK8115（国内版好像是
 L100）和 SK8135。
 
-![DELL-SK8115](https://cdn1.yukapril.com/knowledge/my-keyboard-DELL-SK8115.jpeg)
+![DELL-SK8115](./assets/DELL-SK8115.jpeg)
 
 图源：https://post.smzdm.com/p/435666/
 
@@ -18,7 +18,7 @@ L100）和 SK8135。
 
 后来工作了，自己用两个月工资组装了第一台台式机，入手了雷蛇三齿熊蛛。选择它主要原因是，当时我有雷蛇鼠标了，还有雷蛇鼠标垫。雷蛇的三齿熊蛛是同品牌最便宜的，能买得起。大概二三百左右吧。
 
-![Razer-Arctosa](https://cdn1.yukapril.com/knowledge/my-keyboard-Razer-Arctosa.jpeg)
+![Razer-Arctosa](./assets/Razer-Arctosa.jpeg)
 
 自己实拍雷蛇三齿熊蛛，包装盒都还健在。
 
@@ -33,7 +33,7 @@ L100）和 SK8135。
 上班两年后，自己花了 680 块，入手了 Cherry
 G80-3000，茶轴。放在公司用，那时候公司还是分配的台式机。当时流行机械键盘，可选的品牌不多，而且自己也不太懂，就选择大厂了，轴体选择上，打字主流就是茶轴，玩游戏是青轴。好像当时有黑轴，但我没有注意到过红轴。
 
-![Cherry-G80](https://cdn1.yukapril.com/knowledge/my-keyboard-Cherry-G80.jpeg)
+![Cherry-G80](./assets/Cherry-G80.jpeg)
 
 自己实拍 Cherry G80-3000
 
@@ -53,7 +53,7 @@ G80-3000，茶轴。放在公司用，那时候公司还是分配的台式机。
 
 > 本文，全程使用 11 英寸 iPad Pro (2021)，配合妙控键盘，完成写作。
 
-![Logitech-K480](https://cdn1.yukapril.com/knowledge/my-keyboard-Logitech-K480.jpeg)
+![Logitech-K480](./assets/Logitech-K480.jpeg)
 
 自己实拍罗技 K480
 
@@ -72,7 +72,7 @@ K480 来学习用。
 自己焊接轴体、安装外壳，刷固件。准确说是键盘布局，因为没有源码，也改不了固件。自己配了红轴，无刻的键帽。后来 2019
 年买了一套双皮奶键帽。觉得挺好看的。
 
-![GH60](https://cdn1.yukapril.com/knowledge/my-keyboard-GH60.jpeg)
+![GH60](./assets/GH60.jpeg)
 
 自己实拍 客制化 GH60
 
@@ -89,7 +89,7 @@ K480 来学习用。
 这个品牌主要是喜欢他们的 Poker 系列，和 minila 接近，价格相对便宜，差一点就要买了。当时好像是市面只有 Poker 1、Poker 1+，没有
 Poker 3，不得不放弃。最后又了解到同品牌的 F108 全键盘，光效机械键盘，觉得好看，就 549 块入手了。
 
-![IKBC-F108](https://cdn1.yukapril.com/knowledge/my-keyboard-IKBC-F108.jpeg)
+![IKBC-F108](./assets/IKBC-F108.jpeg)
 
 自己实拍 IKBC F108
 
@@ -113,7 +113,7 @@ Keychron 的，主要一开始认知都是京东京造，实在是拉胯。后�
 虽然将近千元不便宜，也提供了 QMK（VIA、VIAL）支持，但所有 Q 系列都只是有线单模，如果不是为了体验 gasket
 架构铝坨坨和研究固件，不如其他品牌的三模键盘更划算，也不如自己的 K Pro 系列划算。
 
-![Keychron-Q5](https://cdn1.yukapril.com/knowledge/my-keyboard-Keychron-Q5.jpeg)
+![Keychron-Q5](./assets/Keychron-Q5.jpeg)
 
 自己实拍 Keychron Q5
 

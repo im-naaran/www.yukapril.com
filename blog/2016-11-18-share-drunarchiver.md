@@ -2,7 +2,7 @@
 title: "Dr.Unarchiver - 可视化解压缩软件 [MAC]"
 date: 2016-11-18 23:22:00 GMT+0800
 tags: [ 软件 ]
-photos: [ https://cdn1.yukapril.com/2016-11-18-drunarchiver.png ]
+photos: [ ./assets2016/2016-11-18-drunarchiver.png ]
 ---
 
 在Windows下，我们可以选择免费的个人广告版WinRAR，或者开源的7-zip。那MAC下呢？
@@ -15,7 +15,7 @@ MAC自带了解压缩工具，双击就可以完成了，但是对压缩格式�
 
 来，先上Dr.Unarchiver截图：
 
-![image](https://cdn1.yukapril.com/2016-11-18-drunarchiver.png)
+![image](./assets2016/2016-11-18-drunarchiver.png)
 
 怎么样？有点WinRAR的查看感觉了吧。
 

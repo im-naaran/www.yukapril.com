@@ -3,7 +3,6 @@ let CACHE_NAME = ''
 const CACHE_PATTERNS = [
   /www.yukapril.com\/assets\/.+/,
   /www.yukapril.com\/img\/.+/,
-  /cdn1.yukapril.com\/.+/,
   /cdn.jsdelivr.net\/npm\/.+/
 ]
 

@@ -75,17 +75,17 @@ tags: [ 蔷薇少女, 水银灯 ]
 
 开箱图不做任何图片修整。
 
-![img](https://cdn1.yukapril.com/2018-06-26-suigintou-1.jpg)
+![img](./assets2018/2018-06-26-suigintou-1.jpg)
 
-![img](https://cdn1.yukapril.com/2018-06-26-suigintou-2.jpg)
+![img](./assets2018/2018-06-26-suigintou-2.jpg)
 
-![img](https://cdn1.yukapril.com/2018-06-26-suigintou-3.jpg)
+![img](./assets2018/2018-06-26-suigintou-3.jpg)
 
-![img](https://cdn1.yukapril.com/2018-06-26-suigintou-4.jpg)
+![img](./assets2018/2018-06-26-suigintou-4.jpg)
 
-![img](https://cdn1.yukapril.com/2018-06-26-suigintou-5.jpg)
+![img](./assets2018/2018-06-26-suigintou-5.jpg)
 
-![img](https://cdn1.yukapril.com/2018-06-26-suigintou-6.jpg)
+![img](./assets2018/2018-06-26-suigintou-6.jpg)
 
 嗯，没错，是中国制造的，运到日本后，又让我买回来了。我掏了两次运费...
 
@@ -129,6 +129,6 @@ tags: [ 蔷薇少女, 水银灯 ]
 
 最后，我把它放到了显示器左上角，这个角度比较好。显示器略厚于十字架摆台，依然可以靠裙撑协助支撑，显示器常规左右调整角度，并不会掉下来。
 
-![img](https://cdn1.yukapril.com/2018-06-26-suigintou-7.jpg)
+![img](./assets2018/2018-06-26-suigintou-7.jpg)
 
-![img](https://cdn1.yukapril.com/2018-06-26-suigintou-8.jpg)
+![img](./assets2018/2018-06-26-suigintou-8.jpg)
