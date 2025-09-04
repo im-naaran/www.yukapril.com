@@ -110,4 +110,4 @@ console.log('flattenedArr:', flattenedArr)
 
 这样就搞定了。
 
-本文代码见此：[Github](https://github.com/yukapril/learning/blob/master/array-flattened/flattened.html)
+本文代码见此：[GitHub](https://github.com/yukapril/learning/blob/master/array-flattened/flattened.html)

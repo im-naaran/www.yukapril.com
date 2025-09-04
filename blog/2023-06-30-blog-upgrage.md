@@ -10,7 +10,7 @@ tags: [ 博客 ]
 
 ## 2016 远古时代 Jekyll
 
-最早的时候，刚开始自建博客，选用的是 Jekyll，因为 Github 可以直接部署静态网页（Github Pages）。
+最早的时候，刚开始自建博客，选用的是 Jekyll，因为 GitHub 可以直接部署静态网页（GitHub Pages）。
 
 那时候非常痛苦，因为是 Ruby 语言，电脑要准备 Ruby 环境，还有自己不了解 Ruby，也不会开发功能。基本上就是有啥用啥。
 
@@ -36,13 +36,13 @@ tags: [ 博客 ]
 
 安装工具太多，步骤太长了。所以写文章我几乎不换电脑，这样可以省去准备环境，后续再次写文章工作流可以精简掉前两步。
 
-## 2022 初步现代化 Github Actions 自动打包部署
+## 2022 初步现代化 GitHub Actions 自动打包部署
 
 现在回想起来，真是很近的事情。
 
-有一天，终于忍受不了繁杂的步骤了，也想尝试能否用网页写博客，而且 Github Actions 如日中天，为何不尝试下呢。
+有一天，终于忍受不了繁杂的步骤了，也想尝试能否用网页写博客，而且 GitHub Actions 如日中天，为何不尝试下呢。
 
-在项目内指定目录新建文件，或者干脆直接访问 Github Actions，选一个最接近的 Node 部署方案，自己修改了下，下面的是目前最新的：
+在项目内指定目录新建文件，或者干脆直接访问 GitHub Actions，选一个最接近的 Node 部署方案，自己修改了下，下面的是目前最新的：
 
 ```yml
 name: build-and-deploy
@@ -94,7 +94,7 @@ jobs:
 1. 准备 git 环境，下载上传代码用；
 2. git 克隆代码仓库；
 3. 本地写好文章；
-4. 提交代码到 git 仓库，等待 Github Actions 自动部署；
+4. 提交代码到 git 仓库，等待 GitHub Actions 自动部署；
 5. 网站整体套了 CDN，要手动去腾讯云刷新 CDN；
 6. 检查网站内容，有问题的话，重新做 3-6 步。
 
@@ -177,7 +177,7 @@ const {Octokit} = require('octokit')
 const CryptoJS = require('crypto-js')
 const CryptoBase64 = require('crypto-js/enc-base64')
 
-const auth = process.env.GH_AUTH_SECRET // Github 密钥
+const auth = process.env.GH_AUTH_SECRET // GitHub 密钥
 const owner = 'yukapril' // 个人名
 const repo = 'yukapril.com' // 仓库名
 

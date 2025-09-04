@@ -55,7 +55,7 @@ response.setHeader("Access-Control-Allow-Origin", "*")
 
 也可以考虑注解形式（`@CrossOrigin`），好像是 4.2 之后的版本开始支持注解。
 
-演示代码在这里：[Github](https://github.com/yukapril/learning/tree/master/cross-domain)
+演示代码在这里：[GitHub](https://github.com/yukapril/learning/tree/master/cross-domain)
 
 以下约定：
 

@@ -218,7 +218,7 @@ function anonymous(obj
 
 ## 高级模板编译
 
-上面的例子，可以处理各种对象形式的赋值。我们还应该支持 `if` `for` 这样的语法。 这里我就不展开写了。代码我放在了 [Github - template-render](https://github.com/yukapril/template-render)
+上面的例子，可以处理各种对象形式的赋值。我们还应该支持 `if` `for` 这样的语法。 这里我就不展开写了。代码我放在了 [GitHub - template-render](https://github.com/yukapril/template-render)
 。代码是ES6的，可以放在最新的浏览器执行，或者**自行**去编译。
 
 我说下过程：

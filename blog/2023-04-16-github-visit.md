@@ -1,10 +1,10 @@
 ---
-title: Github 访问加速方案
+title: GitHub 访问加速方案
 date: 2023-04-16 12:02:00 GMT+0800
-tags: [ github ]
+tags: [ GitHub ]
 ---
 
-访问 Github 速度比较慢，我找了一些可行的方案。
+访问 GitHub 速度比较慢，我找了一些可行的方案。
 
 <!-- truncate -->
 
@@ -22,7 +22,7 @@ export all_proxy=socks5://127.0.0.1:7890
 
 这种工具一般都需要安装证书，这会使得工具可以明文解析受限网站，安全性待考证。不过个别工具有开源，请自行考量。
 
-比如 [Watt Toolkit](https://steampp.net/)，支持 Github Google 字体等，但不支持 Google。相对稳定。下载工具后注意，下载后不需要开启任何脚本，直接一键加速即可。
+比如 [Watt Toolkit](https://steampp.net/)，支持 GitHub Google 字体等，但不支持 Google。相对稳定。下载工具后注意，下载后不需要开启任何脚本，直接一键加速即可。
 
 再比如 [FastGithub](https://github.com/dotnetcore/FastGithub)。使用简单，只支持 Github。
 

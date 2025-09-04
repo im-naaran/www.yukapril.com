@@ -100,7 +100,7 @@ Raw data 复制进去，相当于读档。
 
 ## 电脑安装工具 `tkg-toolkit`，并进行配置
 
-这一步需要下载刷固件工具包，可以到 Github 进行下载。项目为 [kairyu/kg-toolkit](https://github.com/kairyu/tkg-toolkit)。
+这一步需要下载刷固件工具包，可以到 GitHub 进行下载。项目为 [kairyu/kg-toolkit](https://github.com/kairyu/tkg-toolkit)。
 
 选择 `code`，之后点击 `Downdown ZIP`即可。
 

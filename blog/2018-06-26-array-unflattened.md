@@ -287,5 +287,5 @@ Object.keys(cache).forEach(id => {
 
 这样就彻底搞定了。
 
-本文代码见此：[Github](https://github.com/yukapril/learning/blob/master/array-flattened/unflattened.html)
+本文代码见此：[GitHub](https://github.com/yukapril/learning/blob/master/array-flattened/unflattened.html)
 

@@ -46,7 +46,7 @@ npm 私服搭建工具不多，主要有三个：Verdaccio、sinopia、nenus。
 
 ### sinopia
 
-Github：[https://github.com/rlidwka/sinopia](https://github.com/rlidwka/sinopia)
+GitHub：[https://github.com/rlidwka/sinopia](https://github.com/rlidwka/sinopia)
 
 一样号称零配置的私服，整体和 Verdaccio 差不多。
 
